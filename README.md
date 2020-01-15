@@ -16,10 +16,18 @@ Ironically, I don't want to articulate any story for my data, instead I want to 
 Following Benjamin Franklin's thought, "Well done is better than well said" , I want to learn how to visualize and draw data in a creative and lucid form for the reader to understand it in a glance.
 
 # Me doing adventures - 
+
+#2016 Paragliding 
+
+![Paragliding] (https://github.com/ShrutiKarandikar/myGitRepo/blob/master/Screenshot_2016-04-21-07-02-04.png)
+
 #2017 Scuba Diving
 
 ![Scuba Diving](https://github.com/ShrutiKarandikar/myGitRepo/blob/master/PicsArt_12-28-06.20.50.jpg)
 
+#2019 Joing Carnegie Mellon :P 
+
+![CMU](https://github.com/ShrutiKarandikar/myGitRepo/blob/master/IMG_IMG_1558572944497_1%20(1).jpg)
 
 # Portfolio
 
