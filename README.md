@@ -28,7 +28,7 @@ _#2016 Paragliding_
 **& 2019 ??**
 .
 .
-.
+![self](https://github.com/ShrutiKarandikar/Portfolio/blob/master/DSC_0207.jpg)
 .
 **#2019 Joing Carnegie Mellon :P**
 
