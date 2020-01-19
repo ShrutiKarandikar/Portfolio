@@ -19,7 +19,7 @@ Following Benjamin Franklin's thought, "Well done is better than well said" , I 
 
 _#2016 Paragliding_
 
-![Paragliding](https://github.com/ShrutiKarandikar/Portfolio/blob/master/Screenshot_2016-04-21-07-02-04.png)
+![Paragliding]("https://github.com/ShrutiKarandikar/Portfolio/blob/master/Screenshot_2016-04-21-07-02-04.png")
 
 **#2017 Scuba Diving**
 
@@ -28,7 +28,6 @@ _#2016 Paragliding_
 **& 2019 ??**
 .
 .
-![self](https://github.com/ShrutiKarandikar/Portfolio/blob/master/DSC_0207.jpg)
 .
 **#2019 Joing Carnegie Mellon :P**
 
