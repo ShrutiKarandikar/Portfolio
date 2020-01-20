@@ -17,16 +17,15 @@ Following Benjamin Franklin's thought, "Well done is better than well said" , I 
 
 # Me doing adventures - 
 
-_#2016 Paragliding_
+**#2016 Paragliding**
 
-![Paragliding](https://github.com/ShrutiKarandikar/Portfolio/blob/master/Screenshot_2016-04-21-07-02-04.png)
-![15-brilliant-diy-wall-art-ideas-that-you-ll-want-to-recreate-at-home-inside-idea-18](https://user-images.githubusercontent.com/59716372/72691376-e6fc1c00-3af2-11ea-9538-9f0a3f388b72.jpg)
+![Screenshot_2016-04-21-07-02-04](https://user-images.githubusercontent.com/59716372/72691452-7e616f00-3af3-11ea-9799-159f1cf4e56f.png)
+
 
 
 **#2017 Scuba Diving**
 
-![ScubaDiving](https://github.com/ShrutiKarandikar/Portfolio/blob/master/PicsArt_12-28-06.20.50.jpg)
-![cocktail](https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg)
+![PicsArt_12-28-06 20 50](https://user-images.githubusercontent.com/59716372/72691428-4c500d00-3af3-11ea-99fc-c4862ca0afe2.jpg)
 
 **& 2019 ??**
 .
