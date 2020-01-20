@@ -33,7 +33,7 @@ Following Benjamin Franklin's thought, "Well done is better than well said" , I 
 .
 **#2019 Joing Carnegie Mellon :P**
 
-![CMU](https://github.com/ShrutiKarandikar/Portfolio/blob/master/IMG_IMG_1558572944497_1%20(1).jpg)
+![IMG_IMG_1558572944497_1 (1)](https://user-images.githubusercontent.com/59716372/72691483-cb454580-3af3-11ea-940d-adbd29e2cee1.jpg)
 
 # Portfolio
 
