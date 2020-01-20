@@ -19,11 +19,12 @@ Following Benjamin Franklin's thought, "Well done is better than well said" , I 
 
 _#2016 Paragliding_
 
-![Paragliding](https://github.com/ShrutiKarandikar/Portfolio/blob/master/Screenshot_2016-04-21-07-02-04.png)
+![Paragliding]("https://github.com/ShrutiKarandikar/Portfolio/blob/master/Screenshot_2016-04-21-07-02-04.png")
 
 **#2017 Scuba Diving**
 
-![Scuba Diving](https://github.com/ShrutiKarandikar/Portfolio/blob/master/PicsArt_12-28-06.20.50.jpg)
+![ScubaDiving](https://github.com/ShrutiKarandikar/Portfolio/blob/master/PicsArt_12-28-06.20.50.jpg)
+![cocktail](https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg)
 
 **& 2019 ??**
 .
