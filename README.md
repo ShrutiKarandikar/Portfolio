@@ -35,17 +35,25 @@ Following Benjamin Franklin's thought, "Well done is better than well said" , I 
 
 ![IMG_IMG_1558572944497_1 (1)](https://user-images.githubusercontent.com/59716372/72691483-cb454580-3af3-11ea-940d-adbd29e2cee1.jpg)
 
-# My projects throughout the course - 
 
-## Project 1 : Data Visualization
+# Interesting projects 
+
+
+
+### Project 1 : Data Visualization
 Data Visualizations respresenting General Government Debts across Globe for year 2015.<br>
 Source: The Organization for Economic Co-operation and Development (OECD) 
 
 [Go to Data Visualizations](DataViz2.md)
 
-## Project 2 : Critiquing and Wireframing a solution
+### Project 2 : Critiquing and Wireframing a solution
 
+As a part of this course, I have learnt various techniques or mantras to work with data.<br>
+One of which is - Best way to learn,creating a good visualization is through critiquing other visualizations.<br>
+In this project I have attempted to redesign a web article published on Yahoo Finance , which talks about Apple as a company and its status in the market.
+<p> Here is the link to original article : Jeremy Bowman, "Apple in 5 charts", last modified September 22, 2018 , https://finance.yahoo.com/news/apple-5-charts-141500849.html
 
+[Take me to Wireframe](Wireframe.md)
 
 
 
