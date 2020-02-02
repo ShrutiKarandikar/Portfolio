@@ -49,4 +49,11 @@ With my redesign, I would try to improve on these areas.<br>
 
 ### Step 3: Wireframing a solution
 
-<p>With above changes in mind, I tried to create a draft which was easier to understand and better at aesthetics. I have tried to keep layout to be a little more compact. Since investors may or may not have time to go through entire article, may be an executive summary in the top would help.
+<p>With above changes in mind, I tried to create a draft which was easier to understand and better at aesthetics. I have tried to keep layout to be a little more compact. Since investors may or may not have time to go through entire article, may be an executive summary in the top would help. Hence I have included a summary page with gives a quick view of the market value, profit and sales information for the company in a glance. Executive summary is followed by the original content, updated with the new graphs and pie charts. </p> <p> Here is a hand sketched image of how the new article would look like - 
+  
+  
+![WhatsApp Image 2020-02-02 at 3 09 07 PM](https://user-images.githubusercontent.com/59716372/73617274-e1223280-45ea-11ea-994b-cfc0e045d2f7.jpeg)
+![WhatsApp Image 2020-02-02 at 3 09 07 PM (1)](https://user-images.githubusercontent.com/59716372/73617275-e1223280-45ea-11ea-8daa-5eecc7ba8a4f.jpeg)
+![WhatsApp Image 2020-02-02 at 3 09 07 PM (2)](https://user-images.githubusercontent.com/59716372/73617273-e1223280-45ea-11ea-99e5-332b1a9f3c50.jpeg)
+
+
