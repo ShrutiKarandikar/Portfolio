@@ -18,6 +18,13 @@ The rationale behind choosing this visualization was that it tries to tell the s
 #### Things I thought would have been done differently - <br>
 
 I have pasted the graphs from the original website[https://finance.yahoo.com/news/apple-5-charts-141500849.html] below for easier reference -
+
+
+
+
+
+
+
 ![pie](https://user-images.githubusercontent.com/59716372/73616817-255f0400-45e6-11ea-9e58-84fc5251a6f3.png)
 ![yello](https://user-images.githubusercontent.com/59716372/73616818-255f0400-45e6-11ea-92ef-d5a2533b9fc5.png)
 ![green](https://user-images.githubusercontent.com/59716372/73616816-24c66d80-45e6-11ea-9e13-077546ec158b.png)
