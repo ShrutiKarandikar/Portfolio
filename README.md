@@ -44,7 +44,7 @@ Following Benjamin Franklin's thought, "Well done is better than well said" , I 
 Data Visualizations respresenting General Government Debts across Globe for year 2015.<br>
 Source: The Organization for Economic Co-operation and Development (OECD) 
 
-[Go to Data Visualizations](DataViz2.md)
+[Take me to Data Visualizations](DataViz2.md)
 
 ### Project 2 : Critiquing and Wireframing a solution
 
