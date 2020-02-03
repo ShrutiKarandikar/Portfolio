@@ -50,8 +50,8 @@ Source: The Organization for Economic Co-operation and Development (OECD)
 
 As a part of this course, I have learnt various techniques or mantras to work with data.<br>
 One of which is - Best way to learn,creating a good visualization is through critiquing other visualizations.<br>
-In this project I have attempted to redesign a web article published on Yahoo Finance , which talks about Apple as a company and its status in the market.
-<p> Here is the link to original article : Jeremy Bowman, "Apple in 5 charts", last modified September 22, 2018 , https://finance.yahoo.com/news/apple-5-charts-141500849.html</p>
+In this project I have attempted to redesign a web article published on Yahoo Finance , which talks about Apple as a company and its status in the market.<br>
+Here is the link to original article : Jeremy Bowman, "Apple in 5 charts", last modified September 22, 2018 , https://finance.yahoo.com/news/apple-5-charts-141500849.html
  
 Here is a link to my project<br>
 [Go to Wireframe](/Wireframe.md)
