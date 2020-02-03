@@ -116,3 +116,6 @@ Apple now finds itself again at a turning point. It's not enough for the company
 It won't be easy, but the early signs for Apple investors are positive. Some of the new iPhone XS model pre-orders are already selling out. However, we won't know much about actual sales for several months -- not until the company reports first-quarter earnings in January.<br>
 
 Still, based on the latest iPhone pricing and the challenges above, Apple's strategy with the new high-priced iPhone is abundantly clear.
+
+<br>
+[Take me back to the portfolio](https://shrutikarandikar.github.io/Portfolio/)
