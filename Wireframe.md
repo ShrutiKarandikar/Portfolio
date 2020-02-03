@@ -3,7 +3,9 @@
 ### Step 1: Choice of data visualization
 
 In this project I have attempted to redesign a web article published on Yahoo Finance, which talks about Apple as a company and its status in the market. Primary audience for it is the individual investor trying to explore Apple as a company to invest in. This visualization is a good attempt at collecting different types of resources, and attracting audience. But it may improve on the implementation of the graphs which can effectively convey essence of the data.
-Here is the link to original article : Jeremy Bowman, "[Apple in 5 charts](https://finance.yahoo.com/news/apple-5-charts-141500849.html)", last modified September 22, 2018.
+Here is the link to original article : Jeremy Bowman, "[Apple in 5 charts](https://finance.yahoo.com/news/apple-5-charts-141500849.html)", last modified September 22, 2018.<br>
+Here is the link to the base data: [Base Data](https://docs.google.com/spreadsheets/d/1oJTscwg8jrud96mGKQXxaRHOK3BVkXbconBPnKsXJUk/edit#gid=0)
+
 
 The rationale behind choosing this visualization was that it tries to tell the story of a product in the dynamic stock market domain. In finance sector, which is already overwhelmed with charts, graphs and numbers, good data visualization techniques are critical to stand out and provide wise and accurate information. 
 <br>Also, prior to CMU, I was working as a Business Analyst in Regulatory Reporting domain. I used to generate graphs, design dashboard and analyze numbers for a living. Hence I can relate very well to such visualizations and audience we are trying to connect to. 
