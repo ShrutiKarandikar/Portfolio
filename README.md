@@ -53,7 +53,7 @@ One of which is - Best way to learn,creating a good visualization is through cri
 In this project I have attempted to redesign a web article published on Yahoo Finance , which talks about Apple as a company and its status in the market.
 <p> Here is the link to original article : Jeremy Bowman, "Apple in 5 charts", last modified September 22, 2018 , https://finance.yahoo.com/news/apple-5-charts-141500849.html
  
-[Take me to Wireframe](Wireframe.md)
+
 
 
 
