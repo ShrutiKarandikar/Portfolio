@@ -49,7 +49,10 @@ With my redesign, I would try to improve on these areas.<br>
 
 ### Step 3: Wireframing a solution
 
-<p>With above changes in mind, I tried to create a draft which was easier to understand and better at aesthetics. I have tried to keep layout to be a little more compact. Since investors may or may not have time to go through entire article, may be an executive summary in the top would help. Hence I have included a summary page with gives a quick view of the market value, profit and sales information for the company in a glance. Executive summary is followed by the original content, updated with the new graphs and pie charts. </p> <p> Here is a hand sketched image of how the new article would look like - 
+<p>With above changes in mind, I tried to create a draft which was easier to understand and better at aesthetics. I have tried to keep layout to be a little more compact. Since investors may or may not have time to go through entire article, may be an executive summary in the top would help. Hence I have included a summary page with gives a quick view of the market value, profit and sales information for the company in a glance. Executive summary is followed by the original content, updated with the new graphs and pie charts. 
+<p> Based on the Effectiveness Profile, to improve on the perceptibility, I have eliminated the 3D graphs. Since the depth attribute is of no particular relevance for this visualization. Also, as mentioned above, I have added an executive summary. Apart from this, I have remove the bar graph displaying the same information as the pie, cause I find a pie representation would be better to show “parts of a whole” concept</p> <p> To improve on the Intuitiveness, as Stephan Phew’s paper specifies,  I have re arranged the bar graphs where axis is from 2015 to 2018 and not otherwise. This helps the reader to understand the trend. In the pie chart, I have converted the pie chart into a doughnut chart. The colour uses a gradient to highlight most important to least important product contributing to the revenue of the company.
+<p>To modify aesthetics of the graph, I have added a cover image, which acts as a background to the summary part for the article. All the graphs are in the Apple’s colour palette – Black, Gray , White. 
+
   
   
 ![WhatsApp Image 2020-02-02 at 3 09 07 PM](https://user-images.githubusercontent.com/59716372/73617274-e1223280-45ea-11ea-994b-cfc0e045d2f7.jpeg)
@@ -70,4 +73,6 @@ Maybe you could change the heading to decrease in Sales due to increase in costs
 Here was a new version of the wireframe -
 
 ![WhatsApp Image 2020-02-02 at 6 56 11 PM](https://user-images.githubusercontent.com/59716372/73617548-ef258280-45ed-11ea-9f2b-2d59348a49bc.jpeg)
+
+### Step 5: 
 
