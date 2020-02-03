@@ -72,10 +72,9 @@ With above changes in mind, I tried to create a draft which was easier to unders
 For testing the effectiveness of new design, I sent this to a colleague of mine. She was also a Business Analyst at a consulting firm, having a similar background as mine. Her feedback was quite informative and useful.
 <br>She highlighted the fact that the summary is too verbose, not really eye catchy. The title is attractive but misleading. Detailed view tabs are informative and neatly organized. 
 Second, I sent to a university graduate who has a keen eye for detail and economics major! She suggested further changes and had different views about the graphs. <br> 
-“This is a really creative visualization. I have just one suggestion, on the right hand side increase in Selling price has a downward arrow...the direction of the arrow for all other points is indicative of the teen. 
+“This is a really creative visualization. I have just one suggestion, on the right hand side increase in Selling price has a downward arrow...the direction of the arrow for all other points is indicative of the teen. Maybe you could change the heading to decrease in Sales due to increase in costs or something on those lines. The actual market values are not clear in the first graph. I think the article is very detailed and is persuasive to an executive audience”
 
-Maybe you could change the heading to decrease in Sales due to increase in costs or something on those lines. The actual market values are not clear in the first graph. I think the article is very detailed and is persuasive to an executive audience”
-<br> Both these critiques helped me to fine tune the design for a broader audience. Primary take away was “You are not the user”. It doesn’t matter what kind of chart / diagram you like to make, data visualization will be useful only if it coveys correct details to the user. <br>
+<br> Both these critiques helped me to fine tune the design for a broader audience. Primary take away was “You are not the user”. It doesn’t matter what kind of chart / diagram you like to make, data visualization will be useful only if it coveys correct details to the user. <br> I changed the title, made it summary part catchy and simplified the graphs. Instead of 5 charts, now I am conveying the same information in three :) <br>
 Here was a new version of the wireframe -
 
 ![WhatsApp Image 2020-02-02 at 6 56 11 PM](https://user-images.githubusercontent.com/59716372/73617548-ef258280-45ed-11ea-9f2b-2d59348a49bc.jpeg)
