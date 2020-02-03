@@ -90,12 +90,14 @@ Apple is making headlines once again after releasing the latest versions of its 
 
 #### The iPhone company
 Though Apple makes several other popular devices in addition to its trademark smartphone, including the iPad, Mac, Apple Watch, and others, the iPhone continues to drive the majority of its business as it has for the past several years. As you can see from the charts below, the iPhone has contributed about 62% of Apple's revenue over the last four quarters:
-![2](https://user-images.githubusercontent.com/59716372/73619091-b25f8880-45f9-11ea-9492-050001794855.png)
+![2_small](https://user-images.githubusercontent.com/59716372/73624739-fcebff80-460f-11ea-8150-71f92b78b7fa.png)
+
 <br>Of the company's $255.3 billion in revenue during that time, $158.3 billion has come from the iPhone, which dwarfs revenue in other categories.<br>
 It's clear from those two charts, then, that Apple's fortunes will largely be determined by the success of the iPhone. However, there's a key problem with that dependency: The smartphone market has matured, and sales in the category have even begun declining for the first time ever. Consumers are delaying upgrades, as new iterations of phones become more similar to old ones. In the fourth quarter of 2017, global smartphone sales declined by 5.6% to 408 million, and have plateaued at about 1.5 billion for the year.<br>
 
 Apple has not been able to escape this trend -- iPhone sales have been relatively flat for some time:<br>
-![bar1](https://user-images.githubusercontent.com/59716372/73619090-b25f8880-45f9-11ea-9994-cc3433644fda.png)<br>
+![bar](https://user-images.githubusercontent.com/59716372/73624738-fc536900-460f-11ea-8387-efc589fb08a5.png)
+
 
 As you can see, iPhone unit sales peaked in fiscal 2015 when the company introduced the large-screen iPhone 6, before falling by 8% the following year. Since then, unit sales have recovered modestly, but they may never return to the heights seem in 2015. Apple, aware of this problem, has only one way to keep growing iPhone sales: [to charge more money](https://www.fool.com/investing/2018/09/13/apple-has-quickly-raised-the-entry-price-for-the-i.aspx?&utm_campaign=article&utm_medium=feed&referring_guid=52f68a30-9f6e-43b3-bae1-4f322a1e4247&utm_source=yahoo-host) per phone. <br>
 
