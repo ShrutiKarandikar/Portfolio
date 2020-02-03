@@ -97,7 +97,7 @@ Though Apple makes several other popular devices in addition to its trademark sm
 It's clear from those two charts, then, that Apple's fortunes will largely be determined by the success of the iPhone. However, there's a key problem with that dependency: The smartphone market has matured, and sales in the category have even begun declining for the first time ever. Consumers are delaying upgrades, as new iterations of phones become more similar to old ones. In the fourth quarter of 2017, global smartphone sales declined by 5.6% to 408 million, and have plateaued at about 1.5 billion for the year.<br>
 
 Apple has not been able to escape this trend -- iPhone sales have been relatively flat for some time:<br>
-![bar](https://user-images.githubusercontent.com/59716372/73624738-fc536900-460f-11ea-8387-efc589fb08a5.png)<br>
+![barfinal](https://user-images.githubusercontent.com/59716372/73625732-0aa38400-4614-11ea-8ed5-d27a834cca66.png)<br>
 
 
 As you can see, iPhone unit sales peaked in fiscal 2015 when the company introduced the large-screen iPhone 6, before falling by 8% the following year. Since then, unit sales have recovered modestly, but they may never return to the heights seem in 2015. Apple, aware of this problem, has only one way to keep growing iPhone sales: [to charge more money](https://www.fool.com/investing/2018/09/13/apple-has-quickly-raised-the-entry-price-for-the-i.aspx?&utm_campaign=article&utm_medium=feed&referring_guid=52f68a30-9f6e-43b3-bae1-4f322a1e4247&utm_source=yahoo-host) per phone. <br>
