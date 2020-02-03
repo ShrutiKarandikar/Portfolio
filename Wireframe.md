@@ -6,8 +6,8 @@ In this project I have attempted to redesign a web article published on Yahoo Fi
 Here is the link to original article : Jeremy Bowman, "Apple in 5 charts", last modified September 22, 2018 , https://finance.yahoo.com/news/apple-5-charts-141500849.html
 
 The rationale behind choosing this visualization was that it tries to tell the story of a product in the dynamic stock market domain. In finance sector, which is already overwhelmed with charts, graphs and numbers, good data visualization techniques are critical to stand out and provide wise and accurate information. 
-<p>Also, prior to CMU, I was working as a Business Analyst in Regulatory Reporting domain. I used to generate graphs, design dashboard and analyze numbers for a living. Hence I can relate very well to such visualizations and audience we are trying to connect to. 
-<p> After searching for a while on various sources like The New York Times, The Economist etc I found out this article which focuses on Apple’s positioning in the market after release of iPhone Xs in 2018.  The title of the article was quite attractive “Apple in 5 charts”, which intrigued me to read further. Although, as I read through it, I found a couple of issues with the graphs which made me choose this visualization for the assignment
+<br>Also, prior to CMU, I was working as a Business Analyst in Regulatory Reporting domain. I used to generate graphs, design dashboard and analyze numbers for a living. Hence I can relate very well to such visualizations and audience we are trying to connect to. 
+<br> After searching for a while on various sources like The New York Times, The Economist etc I found out this article which focuses on Apple’s positioning in the market after release of iPhone Xs in 2018.  The title of the article was quite attractive “Apple in 5 charts”, which intrigued me to read further. Although, as I read through it, I found a couple of issues with the graphs which made me choose this visualization for the assignment
 
 #### Things that stood out to me & worked really well- <br>
 1) Title of the article is attractive<br>
@@ -38,7 +38,7 @@ In the above graphs, I would focus on modifying below - <br>
 
 ### Step 2: Critique the visualization
 
-<p>In this course, one mantra we have learnt is – To be good at creating visualizations, be good at critiquing them. In the first 3 weeks, we have studied 2 techniques of critiquing visualization. One is the Good Charts method and other is Data Visualization Effectiveness Profile method. 
+In this course, one mantra we have learnt is – To be good at creating visualizations, be good at critiquing them. In the first 3 weeks, we have studied 2 techniques of critiquing visualization. One is the Good Charts method and other is Data Visualization Effectiveness Profile method. 
 Of these two, I have used the Effectiveness profile method to critique the data visualizations at hand.<br>
 Areas of focus which I found where the design lacked were -<br>
 •	Perceptibility <br>
@@ -49,9 +49,9 @@ With my redesign, I would try to improve on these areas.<br>
 
 ### Step 3: Wireframing a solution
 
-<p>With above changes in mind, I tried to create a draft which was easier to understand and better at aesthetics. I have tried to keep layout to be a little more compact. Since investors may or may not have time to go through entire article, may be an executive summary in the top would help. Hence I have included a summary page with gives a quick view of the market value, profit and sales information for the company in a glance. Executive summary is followed by the original content, updated with the new graphs and pie charts. 
-<p> Based on the Effectiveness Profile, to improve on the perceptibility, I have eliminated the 3D graphs. Since the depth attribute is of no particular relevance for this visualization. Also, as mentioned above, I have added an executive summary. Apart from this, I have remove the bar graph displaying the same information as the pie, cause I find a pie representation would be better to show “parts of a whole” concept</p> <p> To improve on the Intuitiveness, as Stephan Phew’s paper specifies,  I have re arranged the bar graphs where axis is from 2015 to 2018 and not otherwise. This helps the reader to understand the trend. In the pie chart, I have converted the pie chart into a doughnut chart. The colour uses a gradient to highlight most important to least important product contributing to the revenue of the company.
-<p>To modify aesthetics of the graph, I have added a cover image, which acts as a background to the summary part for the article. All the graphs are in the Apple’s colour palette – Black, Gray , White. 
+With above changes in mind, I tried to create a draft which was easier to understand and better at aesthetics. I have tried to keep layout to be a little more compact. Since investors may or may not have time to go through entire article, may be an executive summary in the top would help. Hence I have included a summary page with gives a quick view of the market value, profit and sales information for the company in a glance. Executive summary is followed by the original content, updated with the new graphs and pie charts. 
+<br>Based on the Effectiveness Profile, to improve on the perceptibility, I have eliminated the 3D graphs. Since the depth attribute is of no particular relevance for this visualization. Also, as mentioned above, I have added an executive summary. Apart from this, I have remove the bar graph displaying the same information as the pie, cause I find a pie representation would be better to show “parts of a whole” concept<br>To improve on the Intuitiveness, as Stephan Phew’s paper specifies,  I have re arranged the bar graphs where axis is from 2015 to 2018 and not otherwise. This helps the reader to understand the trend. In the pie chart, I have converted the pie chart into a doughnut chart. The colour uses a gradient to highlight most important to least important product contributing to the revenue of the company.
+<br>To modify aesthetics of the graph, I have added a cover image, which acts as a background to the summary part for the article. All the graphs are in the Apple’s colour palette – Black, Gray , White. 
 
   
   
@@ -64,12 +64,12 @@ With my redesign, I would try to improve on these areas.<br>
 
 ### Step 4: Testing of the solution 
 For testing the effectiveness of new design, I sent this to a colleague of mine. She was also a Business Analyst at a consulting firm, having a similar background as mine. Her feedback was quite informative and useful.
-<p>She highlighted the fact that the summary is too verbose, not really eye catchy. The title is attractive but misleading. Detailed view tabs are informative and neatly organized. 
+<br>She highlighted the fact that the summary is too verbose, not really eye catchy. The title is attractive but misleading. Detailed view tabs are informative and neatly organized. 
 Second, I sent to a university graduate who has a keen eye for detail and economics major! She suggested further changes and had different views about the graphs. <br> 
 “This is a really creative visualization. I have just one suggestion, on the right hand side increase in Selling price has a downward arrow...the direction of the arrow for all other points is indicative of the teen. 
 
 Maybe you could change the heading to decrease in Sales due to increase in costs or something on those lines. The actual market values are not clear in the first graph. I think the article is very detailed and is persuasive to an executive audience”
-<p> Both these critiques helped me to fine tune the design for a broader audience. Primary take away was “You are not the user”. It doesn’t matter what kind of chart / diagram you like to make, data visualization will be useful only if it coveys correct details to the user. <br>
+<br> Both these critiques helped me to fine tune the design for a broader audience. Primary take away was “You are not the user”. It doesn’t matter what kind of chart / diagram you like to make, data visualization will be useful only if it coveys correct details to the user. <br>
 Here was a new version of the wireframe -
 
 ![WhatsApp Image 2020-02-02 at 6 56 11 PM](https://user-images.githubusercontent.com/59716372/73617548-ef258280-45ed-11ea-9f2b-2d59348a49bc.jpeg)
