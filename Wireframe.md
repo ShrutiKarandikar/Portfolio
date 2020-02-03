@@ -76,3 +76,5 @@ Here was a new version of the wireframe -
 
 ### Step 5: 
 
+
+![apple1](https://user-images.githubusercontent.com/59716372/73619089-b25f8880-45f9-11ea-9a9e-d7abe5dc76cf.png)
