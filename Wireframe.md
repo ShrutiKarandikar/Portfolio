@@ -3,7 +3,7 @@
 ### Step 1: Choice of data visualization
 
 In this project I have attempted to redesign a web article published on Yahoo Finance, which talks about Apple as a company and its status in the market. Primary audience for it is the individual investor trying to explore Apple as a company to invest in. This visualization is a good attempt at collecting different types of resources, and attracting audience. But it may improve on the implementation of the graphs which can effectively convey essence of the data.
-Here is the link to original article : Jeremy Bowman, "Apple in 5 charts", last modified September 22, 2018 , https://finance.yahoo.com/news/apple-5-charts-141500849.html
+Here is the link to original article : Jeremy Bowman, "[Apple in 5 charts](https://finance.yahoo.com/news/apple-5-charts-141500849.html)", last modified September 22, 2018.
 
 The rationale behind choosing this visualization was that it tries to tell the story of a product in the dynamic stock market domain. In finance sector, which is already overwhelmed with charts, graphs and numbers, good data visualization techniques are critical to stand out and provide wise and accurate information. 
 <br>Also, prior to CMU, I was working as a Business Analyst in Regulatory Reporting domain. I used to generate graphs, design dashboard and analyze numbers for a living. Hence I can relate very well to such visualizations and audience we are trying to connect to. 
@@ -11,13 +11,13 @@ The rationale behind choosing this visualization was that it tries to tell the s
 
 #### Things that stood out to me & worked really well- <br>
 1) Title of the article is attractive<br>
-2) Information source is authentic , recent and relevant<br>
+2) Information source is authentic , recent and relevant. Source : Apple's published financial reports <br>
 3) It has enough charts to elaborate / visualize. Less verbose content<br>
 
 
 #### Things I thought would have been done differently - <br>
 
-I have pasted the graphs from the original website[Original Website](https://finance.yahoo.com/news/apple-5-charts-141500849.html) below for easier reference -
+I have pasted the graphs from the original website [Original Website](https://finance.yahoo.com/news/apple-5-charts-141500849.html) below for easier reference -
 
 
 
@@ -80,10 +80,12 @@ Here was a new version of the wireframe -
 
 ![WhatsApp Image 2020-02-02 at 6 56 11 PM](https://user-images.githubusercontent.com/59716372/73617548-ef258280-45ed-11ea-9f2b-2d59348a49bc.jpeg)
 
-### Step 5: 
+### Step 5: Building my own solution
 
+Utlimately, getting all the wireframes into place, I have convert my sketches to a web design. <br>
+For all the new bar graphs, I have used Tableu. For the new summary cover, I have used a designing tool called Canva. 
 
-![apple1](https://user-images.githubusercontent.com/59716372/73619089-b25f8880-45f9-11ea-9a9e-d7abe5dc76cf.png)
+![apple1](https://user-images.githubusercontent.com/59716372/73619089-b25f8880-45f9-11ea-9a9e-d7abe5dc76cf.png)<br>
 By most conventional definitions, Apple (NASDAQ: AAPL) is the most successful company in the world. It's worth more than any other publicly traded company, with a market value near $1.1 trillion, and it's the most profitable, bringing in $56 billion in net income in its last four quarters.<br>
 
 Apple is making headlines once again after releasing the latest versions of its flagship smartphone, the iPhone, including the iPhone XS, XS Max, and XR; the stock recently topped the $1 trillion mark and is pushing record highs. As investors consider the stock's potential with those two milestones behind it, now is an excellent time to dig into the numbers, to better understand how Apple's business works and where it's headed today.<br>
@@ -96,7 +98,7 @@ Though Apple makes several other popular devices in addition to its trademark sm
 It's clear from those two charts, then, that Apple's fortunes will largely be determined by the success of the iPhone. However, there's a key problem with that dependency: The smartphone market has matured, and sales in the category have even begun declining for the first time ever. Consumers are delaying upgrades, as new iterations of phones become more similar to old ones. In the fourth quarter of 2017, global smartphone sales declined by 5.6% to 408 million, and have plateaued at about 1.5 billion for the year.<br>
 
 Apple has not been able to escape this trend -- iPhone sales have been relatively flat for some time:<br>
-![bar](https://user-images.githubusercontent.com/59716372/73624738-fc536900-460f-11ea-8387-efc589fb08a5.png)
+![bar](https://user-images.githubusercontent.com/59716372/73624738-fc536900-460f-11ea-8387-efc589fb08a5.png)<br>
 
 
 As you can see, iPhone unit sales peaked in fiscal 2015 when the company introduced the large-screen iPhone 6, before falling by 8% the following year. Since then, unit sales have recovered modestly, but they may never return to the heights seem in 2015. Apple, aware of this problem, has only one way to keep growing iPhone sales: [to charge more money](https://www.fool.com/investing/2018/09/13/apple-has-quickly-raised-the-entry-price-for-the-i.aspx?&utm_campaign=article&utm_medium=feed&referring_guid=52f68a30-9f6e-43b3-bae1-4f322a1e4247&utm_source=yahoo-host) per phone. <br>
@@ -115,8 +117,3 @@ Apple now finds itself again at a turning point. It's not enough for the company
 It won't be easy, but the early signs for Apple investors are positive. Some of the new iPhone XS model pre-orders are already selling out. However, we won't know much about actual sales for several months -- not until the company reports first-quarter earnings in January.<br>
 
 Still, based on the latest iPhone pricing and the challenges above, Apple's strategy with the new high-priced iPhone is abundantly clear.
-
-
-
-
-
