@@ -17,7 +17,7 @@ The rationale behind choosing this visualization was that it tries to tell the s
 
 #### Things I thought would have been done differently - <br>
 
-I have pasted the graphs from the original website[https://finance.yahoo.com/news/apple-5-charts-141500849.html] below for easier reference -
+I have pasted the graphs from the original website[Original Website](https://finance.yahoo.com/news/apple-5-charts-141500849.html) below for easier reference -
 
 
 
@@ -45,7 +45,13 @@ Areas of focus which I found where the design lacked were -<br>
 •	Intuitiveness <br>
 •	Aesthetics <br>
 
-With my redesign, I would try to improve on these areas.<br>
+With my redesign, I would try to improve on the three areas mentioned above. Based on the assessment of "Apple in 5 charts" , using measures provided by Stephen Phew,  below are a few recommendation for the article - <br>
+
+1) Layout can be a little more compact. Since investors may or may not have time to go through entire article, may be an executive summary in the top would help.  <br>
+2) There is pie chart representation and bar graph representation of the same underlying data. This can be changed to just one more convenient data visualization <br>
+3) Colours can be made colour lind and print friendly. Also, use of a different palette would help<br>
+4) Use of 2D graphs instead of 3D
+
 
 ### Step 3: Wireframing a solution
 
@@ -78,3 +84,37 @@ Here was a new version of the wireframe -
 
 
 ![apple1](https://user-images.githubusercontent.com/59716372/73619089-b25f8880-45f9-11ea-9a9e-d7abe5dc76cf.png)
+By most conventional definitions, Apple (NASDAQ: AAPL) is the most successful company in the world. It's worth more than any other publicly traded company, with a market value near $1.1 trillion, and it's the most profitable, bringing in $56 billion in net income in its last four quarters.<br>
+
+Apple is making headlines once again after releasing the latest versions of its flagship smartphone, the iPhone, including the iPhone XS, XS Max, and XR; the stock recently topped the $1 trillion mark and is pushing record highs. As investors consider the stock's potential with those two milestones behind it, now is an excellent time to dig into the numbers, to better understand how Apple's business works and where it's headed today.<br>
+
+#### The iPhone company
+Though Apple makes several other popular devices in addition to its trademark smartphone, including the iPad, Mac, Apple Watch, and others, the iPhone continues to drive the majority of its business as it has for the past several years. As you can see from the charts below, the iPhone has contributed about 62% of Apple's revenue over the last four quarters:
+![2](https://user-images.githubusercontent.com/59716372/73619091-b25f8880-45f9-11ea-9492-050001794855.png)
+<br>Of the company's $255.3 billion in revenue during that time, $158.3 billion has come from the iPhone, which dwarfs revenue in other categories.<br>
+It's clear from those two charts, then, that Apple's fortunes will largely be determined by the success of the iPhone. However, there's a key problem with that dependency: The smartphone market has matured, and sales in the category have even begun declining for the first time ever. Consumers are delaying upgrades, as new iterations of phones become more similar to old ones. In the fourth quarter of 2017, global smartphone sales declined by 5.6% to 408 million, and have plateaued at about 1.5 billion for the year.<br>
+
+Apple has not been able to escape this trend -- iPhone sales have been relatively flat for some time:<br>
+![bar1](https://user-images.githubusercontent.com/59716372/73619090-b25f8880-45f9-11ea-9994-cc3433644fda.png)<br>
+
+As you can see, iPhone unit sales peaked in fiscal 2015 when the company introduced the large-screen iPhone 6, before falling by 8% the following year. Since then, unit sales have recovered modestly, but they may never return to the heights seem in 2015. Apple, aware of this problem, has only one way to keep growing iPhone sales: [to charge more money](https://www.fool.com/investing/2018/09/13/apple-has-quickly-raised-the-entry-price-for-the-i.aspx?&utm_campaign=article&utm_medium=feed&referring_guid=52f68a30-9f6e-43b3-bae1-4f322a1e4247&utm_source=yahoo-host) per phone. <br>
+
+Thanks to the success of the iPhone X, average iPhone selling prices have jumped this year after lagging previously:
+
+![bar2](https://user-images.githubusercontent.com/59716372/73619809-d375a880-45fc-11ea-90b2-831425728b3b.png)<br>
+
+Average iPhone selling prices jumped to $758 thanks to the $1,000 iPhone X. Apple is hoping to pull the same trick once again with its new lineup of iPhones, which top out at $1,100 for the iPhone XS Max with 64 gigabytes or $1,449 with 512 GB. However, the company will only be able to raise iPhone prices for so long, as it will eventually reach a ceiling in demand.<br>
+
+Apple's services segment, made up of offerings like the App Store, Apple Music, and Apple Pay, has been growing quickly; services revenue is up 31% in the most recent quarter. But the growth of that high-margin category has not been enough to make up for rising input costs, as gross margin is down from a recent peak in 2015:<br>
+
+#### Author's Take
+Apple now finds itself again at a turning point. It's not enough for the company to rely on growth from Services or its Other Products segment, which includes devices like the Apple Watch, Apple TV, and AirPods, as sales in those categories are still just a fraction of iPhone sales. The company either needs to find another blockbuster product category that can add meaningful growth to an already enormous business, or it needs to find more ways to squeeze money out of a mature iPhone market, likely by raising prices.<br>
+
+It won't be easy, but the early signs for Apple investors are positive. Some of the new iPhone XS model pre-orders are already selling out. However, we won't know much about actual sales for several months -- not until the company reports first-quarter earnings in January.<br>
+
+Still, based on the latest iPhone pricing and the challenges above, Apple's strategy with the new high-priced iPhone is abundantly clear.
+
+
+
+
+
