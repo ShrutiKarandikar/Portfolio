@@ -54,7 +54,7 @@ In this project I have attempted to redesign a web article published on Yahoo Fi
 Here is the link to original article : Jeremy Bowman, "Apple in 5 charts", last modified September 22, 2018 , [Apple in 5 charts](https://finance.yahoo.com/news/apple-5-charts-141500849.html)
  
 Here is a link to my project<br>
-[Go to Wireframe](/Wireframe.md)
+[Take me to the Wireframe](Wireframe.md)
 
 
 
