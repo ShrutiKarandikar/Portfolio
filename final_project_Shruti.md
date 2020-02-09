@@ -37,7 +37,9 @@ Here is the [dataset](https://github.com/ShrutiKarandikar/Portfolio/blob/master/
 
 ## Method and Medium
 This project is aimed at conveying a message (call for action) to its readers. I have chosen to tell a story of that tee shirt which was worn only twice, that denim which lies only in the wardrobe and that jacket which was never used after flaunting your O.O.T.D.
-To ensure that the message is conveyed in a receptive attitude, understanding the audience is a crucial part for this project. I started with collecting as much resources as possible on this topic. This included web articles, news journals videos and of course Netflix. This data collection phase gave me further insights about what work is already done in this area. Followed by data collection, I started thinking about the story arch. To come up with a story arch, I basically asked myself these questions – 
+To ensure that the message is conveyed in a receptive attitude, understanding my audience is a crucial part for this project. 
+
+I started my work with collecting as much resources as possible on this topic. This included web articles, news journals, youtube videos and even Netflix documentary. This data collection phase gave me further insights about what work is already done in this area. Followed by data collection, I started thinking about the story arch. To come up with a story arch, I basically asked myself these questions – 
 
 1. Who is my target audience? 
 2. What is my story?
@@ -45,14 +47,17 @@ To ensure that the message is conveyed in a receptive attitude, understanding th
 4. What is the call for action for my reader? 
 
 
-Once these questions were answered, my story arch was ready (which is presented above). Followed by this, I drew initial sketches, with a wireframe about how data will unfold the story.     
+Once these questions were answered, my story arch was ready (which is presented above). Followed by this, I drew initial sketches, with a wireframe about how will I ensure that data will unfold the story.     
 
-After this, I sent it across for feedback to a few colleagues. The feedback received was:   
+After creating basic wireframes, I sent it across for feedback to a few colleagues and friends. The feedback received was:   
 
 
 Based on the feedback I will update my design to reflect the changes. 
 
+Next steps in the project<br> 
+* I will be using Tableau and Rawgraphs for creating most of the graphs in the project. 
+* This project is based on a very attractive and aesthetically pleasing industry – FASHION. Hence my work should also possess some of these characteristics. I have chosen Shorthand as my platform to bring across the point of FAST FASHION. Shorthand provides various templates where I can use images as background and describe the context very well with graphs. 
 
-I will be using Tableau and Rawgraphs for creating most of the graphs in the project. 
-This project is based on a very attractive and aesthetically pleasing industry – FASHION. Hence my work should also possess some of these characteristics. I have chosen Shorthand as my platform to bring across the point of FAST FASHION. Shorthand provides various templates where I can use images as background and describe the context very well with graphs. I hope the final project turns out to be intriguing and informative to the readers.
+
+I hope the final project turns out to be intriguing and informative for the readers. Stay tuned !
 
