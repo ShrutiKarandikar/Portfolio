@@ -7,21 +7,26 @@ But before doing this, do we think about its implications? Ummm....May be not ev
 To dwelve into this topic and know more about your shopping habits read along.
 
 ## Final Project - Fast Fashion or Sustainable Fashion
+
+### Outline 
+
+#### Summary 
 This project introduces the concept of Fast Fashion, analyses its exponential growth in fashion industry and highlights its social and environmental impacts.
 
 As a reader, I would want to know more about what are implications of my shopping habits or am I being manipulated? So that, I can make a well informed decisions about spending and having a sustainable living. 
 
-
+#### Outline 
 
 Since the topic is relatively under the cover yet, I would first want to explain the concept of Fast Fashion. Give clarifications about how unknowingly, we, as end consumers, support fashion brands to produce quick, cheap and disposable apparels at the cost of natural resources. I will talk about how mass production of apparels with synthetic materials is depleting forests, utilizing water and other scarce resources.  To exemplify the argument I’ll supplement it by giving relatable examples and taking a closer look at Zara and its business model. This section will involve use of various data visualization techniques which I have learnt in this course. I’ll try to put across my point using appropriate colour scheme, typography and choosing suitable charts where ever necessary. <br>
 
 Once the topic is introduced and reader is made aware of its seriousness, she will automatically be engaged into the topic. (Hopefully) (The way I was engaged when I heard about it for the first time!) <br>
 
-The article will conclude with call for action, as to how as individuals, we can contribute towards creating a sustainable living for us and future generations. <br>
+#### Call for action 
+The article will conclude with call for action, as to how as individuals, we can contribute towards creating a sustainable living for us and future generations. We should try to reuse atleast 3 apparels each month, consider buying from earth friendly brands and shop responsibly.<br>
 
 
 
-Happy Shopping !
+### Happy Shopping !
 
 
 
@@ -63,6 +68,8 @@ Here is the [dataset](https://github.com/ShrutiKarandikar/Portfolio/blob/master/
   - Strategies for call for action
 
 
+
+
 ## Method and Medium
 This project is aimed at conveying a message (call for action) to its readers. I have chosen to tell a story of that tee shirt which was worn only twice, that denim which lies only in the wardrobe and that jacket which was never used after flaunting your O.O.T.D.
 To ensure that the message is conveyed in a receptive attitude, understanding my audience is a crucial part for this project. 
@@ -87,4 +94,11 @@ Next steps in the project<br>
 
 
 I hope the final project turns out to be intriguing and informative for the readers. Stay tuned !
+
+
+
+
+
+
+[Back to main profile](https://shrutikarandikar.github.io/Portfolio/)
 
