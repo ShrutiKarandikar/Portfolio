@@ -85,8 +85,9 @@ I started my work with collecting as much resources as possible on this topic. T
 Once these questions were answered, my story arch was ready (which is presented above). Followed by this, I drew initial sketches, with a wireframe about how will I ensure that data will unfold the story.     
 
 After creating basic wireframes, I sent it across for feedback to a few colleagues and friends. The feedback received was:   
+"I love your story arc...it's so cool!!!"
 
-Based on the feedback I will update my design to reflect the changes. 
+So, have got nothing to change :) Yeay !
 
 Next steps in the project<br> 
 * I will be using Tableau and Rawgraphs for creating most of the graphs in the project. 
