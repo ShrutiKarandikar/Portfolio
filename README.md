@@ -56,5 +56,15 @@ Here is the link to original article : Jeremy Bowman, "Apple in 5 charts", last 
 Here is a link to my project<br>
 [Take me to the Wireframe](Wireframe.md)
 
+### Final Project : Shorthand Visual
+
+"In God we trust; All others must bring Data " - William Edwards Deming 
+
+As a final milestone of this course, we are supposed to create a data visualization that will tell a story about a topic which we connect to. <br>
+My project focuses on fashion and shopping. It surely connects to me, and as GenX-ers, it should be exciting for my audience as well. The project is about finding what ‘Fast Fashion’ is all about and what its implications on the environment are. I have worked to collect data from multiple sources like news articles, books, interviews and Netflix documentaries. The study concludes with a call for action for each and every one of us.<br>
+I think this story is better seen than told. 
+[Take me to the StoryBoard](final_project_Shruti.md)
+
+
 
 
