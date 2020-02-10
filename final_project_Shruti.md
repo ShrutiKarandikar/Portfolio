@@ -31,7 +31,8 @@ The article will conclude with call for action, as to how as individuals, we can
 
 
 ## Story Arch
-![20200209_212707](https://user-images.githubusercontent.com/59716372/74117280-2a432b00-4b85-11ea-9dae-0a59e0a8962d.jpg)
+![20200209_212707](https://user-images.githubusercontent.com/59716372/74122729-2ff73b80-4b9a-11ea-8d3b-4c7ce53946ae.jpg)
+
 
 ## Initial Sketches
 
