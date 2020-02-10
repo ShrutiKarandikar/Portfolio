@@ -30,10 +30,38 @@ Happy Shopping !
 
 ## Initial Sketches
 
+![20200209_225649](https://user-images.githubusercontent.com/59716372/74120797-d50e1600-4b92-11ea-9b67-af551051e3b6.jpg)
+
 
 ## The Data
 This project highlights a change in consumer behaviour and fashion industry trends in the last decade. I couldn't find a single dataset incorporating all the aspects of Fashion industry at a single source. But, there is enough literature in form of news & web articles, books, discussions and talks. Hence, I have collected all the different data points into excel which will be used for bringing out the story with visualizations.<br>
-Here is the [dataset](https://github.com/ShrutiKarandikar/Portfolio/blob/master/TSWD_Project_FastFashion.xlsx).  Each sheet in the dataset has its source specified separately. 
+Here is the [dataset](https://github.com/ShrutiKarandikar/Portfolio/blob/master/TSWD_Project_FastFashion.xlsx).  Each sheet in the dataset has its source specified separately.  <br>
+
+### Brief summary about the data
+* [The Real Cost of Your Shopping Habits](https://www.forbes.com/sites/emmajohnson/2015/01/15/the-real-cost-of-your-shopping-habits/#331f47451452)
+  - Source : Forbes.com
+  - Used to Facts to eastablish the ground that consumption of apparels has alarmingly increased in last decade
+  
+* [What Is Fast Fashion, Anyway?] (https://www.thegoodtrade.com/features/what-is-fast-fashion)
+  - Source : TheGoodTrade.com
+  - Used to emphasize the boom of Fast Fashion market.
+  
+* [Fast Fashon : How to shorten the apparel calendar] (https://www.mckinsey.com/industries/retail/our-insights/faster-fashion-how-to-shorten-the-apparel-calendar
+) 
+  - Source : McKinsey.com
+  - Used to inform readers about the business model of Fast Fashion Comapnies 
+* [ZARA: Achieving the “Fast” in Fast Fashion through Analytics] (https://digital.hbs.edu/platform-digit/submission/zara-achieving-the-fast-in-fast-fashion-through-analytics/)
+  - Source : Digital Harvard Business Review
+  - Case study on Zara's business model
+  
+* [Style that's sustainable](https://www.mckinsey.com/business-functions/sustainability/our-insights/style-thats-sustainable-a-new-fast-fashion-formula)
+  - Source : McKinsey.com
+  - Used to highlight the environmental impacts, carbon emission and water consumption. Also shreds light on labour exploitation.
+  
+* [What to do about it?](https://www.forbes.com/sites/celiashatzman/2019/10/04/fashionopolis-author-dana-thomas-on-how-fast-fashion-is-destroying-the-planet-and-what-you-can-do-about-it/#73d164d93b97) 
+  - Source : Fashionopolis, Author : Dana Thomas
+  - Strategies for call for action
+
 
 ## Method and Medium
 This project is aimed at conveying a message (call for action) to its readers. I have chosen to tell a story of that tee shirt which was worn only twice, that denim which lies only in the wardrobe and that jacket which was never used after flaunting your O.O.T.D.
@@ -50,7 +78,6 @@ I started my work with collecting as much resources as possible on this topic. T
 Once these questions were answered, my story arch was ready (which is presented above). Followed by this, I drew initial sketches, with a wireframe about how will I ensure that data will unfold the story.     
 
 After creating basic wireframes, I sent it across for feedback to a few colleagues and friends. The feedback received was:   
-
 
 Based on the feedback I will update my design to reflect the changes. 
 
