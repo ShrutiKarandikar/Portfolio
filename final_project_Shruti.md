@@ -15,7 +15,7 @@ This project introduces the concept of Fast Fashion, analyses its exponential gr
 
 As a reader, I would want to know more about what are implications of my shopping habits or am I being manipulated? So that, I can make a well informed decisions about spending and having a sustainable living. 
 
-#### Outline 
+#### Structure 
 
 Since the topic is relatively under the cover yet, I would first want to explain the concept of Fast Fashion. Give clarifications about how unknowingly, we, as end consumers, support fashion brands to produce quick, cheap and disposable apparels at the cost of natural resources. I will talk about how mass production of apparels with synthetic materials is depleting forests, utilizing water and other scarce resources.  To exemplify the argument I’ll supplement it by giving relatable examples and taking a closer look at Zara and its business model. This section will involve use of various data visualization techniques which I have learnt in this course. I’ll try to put across my point using appropriate colour scheme, typography and choosing suitable charts where ever necessary. <br>
 
@@ -47,15 +47,15 @@ Here is the [dataset](https://github.com/ShrutiKarandikar/Portfolio/blob/master/
   - Source : Forbes.com
   - Used to Facts to eastablish the ground that consumption of apparels has alarmingly increased in last decade
   
-* [What Is Fast Fashion, Anyway?] (https://www.thegoodtrade.com/features/what-is-fast-fashion)
+* [What Is Fast Fashion, Anyway?](https://www.thegoodtrade.com/features/what-is-fast-fashion)
   - Source : TheGoodTrade.com
   - Used to emphasize the boom of Fast Fashion market.
   
-* [Fast Fashon : How to shorten the apparel calendar] (https://www.mckinsey.com/industries/retail/our-insights/faster-fashion-how-to-shorten-the-apparel-calendar
+* [Fast Fashon : How to shorten the apparel calendar](https://www.mckinsey.com/industries/retail/our-insights/faster-fashion-how-to-shorten-the-apparel-calendar
 ) 
   - Source : McKinsey.com
   - Used to inform readers about the business model of Fast Fashion Comapnies 
-* [ZARA: Achieving the “Fast” in Fast Fashion through Analytics] (https://digital.hbs.edu/platform-digit/submission/zara-achieving-the-fast-in-fast-fashion-through-analytics/)
+* [ZARA: Achieving the “Fast” in Fast Fashion through Analytics](https://digital.hbs.edu/platform-digit/submission/zara-achieving-the-fast-in-fast-fashion-through-analytics/)
   - Source : Digital Harvard Business Review
   - Case study on Zara's business model
   
