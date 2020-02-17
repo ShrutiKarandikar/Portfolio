@@ -61,6 +61,16 @@ Q3) Based on the message put forward in the presentation and my personal hobby o
 Q4) Yes, I do feel that the aesthetics of the visualization match the context of the presentation. All the relevant data is represented in human-understandable diagrams along with various visuals representing the exact topic.
 Q5) More focus can be put on the mitigation strategy for the represented topic. There are a couple of other factors that add up to carbon footprint which include the use of single-use plastic hangers for clothing arrangement and their management. Gap, which is a global brand throws its hangers in dumpsters just after a single use to display their line up clothing. Such supportive topics can also be incorporated to make the topic more impactful.
 
+### Findings from the interview
++  The story is engaging
+
++  Most of the visualizations are good and supportive 
+
+-	 Flow of the story can be improved where Fastie and Slowie are introduced 
+
+-	 Uniformity in font and layout can be improved. 
+
+
 ### Changes 
 
 ![1](https://user-images.githubusercontent.com/59716372/74622831-42c8bd80-5110-11ea-8838-90e2fc392ec6.png)
