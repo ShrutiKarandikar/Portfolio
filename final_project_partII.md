@@ -73,6 +73,10 @@ Q5) More focus can be put on the mitigation strategy for the represented topic. 
 
 ### Changes 
 
++  Updated the content with uniform font, headings , typography
++  Repositioned the drawings
++  Connected the dots to make the story more coherent 
+
 ![1](https://user-images.githubusercontent.com/59716372/74622831-42c8bd80-5110-11ea-8838-90e2fc392ec6.png)
 ![2](https://user-images.githubusercontent.com/59716372/74622833-43615400-5110-11ea-9e13-9bf657f1b783.png)
 ![3](https://user-images.githubusercontent.com/59716372/74622834-43615400-5110-11ea-949a-523697799b30.png)
