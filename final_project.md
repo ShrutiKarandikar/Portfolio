@@ -38,11 +38,11 @@ But after interviewing, I found out that it is really not helping to personify t
 Phew. After all this drawing and redrawing, finally I had my updated version of the project. <br>
 Below is the outcome of all this painstaking drafting and visualizing of data. Hope you’ll find it intriguing enough and help you make informed decisions about your spending. <br>
 Happy Shopping!  
-### Final Project - ShortHand
+## Final Project - ShortHand
 
 [FASHION : Style that is sustainable](https://carnegiemellon.shorthandstories.com/fastfashion/index.html)
 
-### References & Brief summary about the data
+## References & Brief summary about the data
 * [The Real Cost of Your Shopping Habits](https://www.forbes.com/sites/emmajohnson/2015/01/15/the-real-cost-of-your-shopping-habits/#331f47451452)
   - Source : Forbes.com
   - Used to Facts to eastablish the ground that consumption of apparels has alarmingly increased in last decade
@@ -66,7 +66,7 @@ Happy Shopping!
   
 * [The Ugly Truth of Fast Fashion](https://www.youtube.com/watch?v=xGF3ObOBbac)
 
-### GitHub Profile
+## GitHub Profile
 
 More about this and all other projects can be found on my Github page- <br>
 https://github.com/ShrutiKarandikar/Portfolio/blob/master/README.md
