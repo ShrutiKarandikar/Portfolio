@@ -1,7 +1,7 @@
 # Final Project - Part III
 ### The art of story telling
 In words of Andrew McAfee, co-director of the MIT Initiative
->“This world is one big data problem.”
+>This world is one big data problem.
 
 As a part of this project, we were expected to pick a dataset which was intriguing and important enough to be discussed in our forum. This final project was climax of the course and was equally rewarding.<br>
 I could apply everything which I learnt over the course of 6 weeks and had complete freedom to experiment, elaborate and adjust!  <br>
