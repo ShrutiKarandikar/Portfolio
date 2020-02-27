@@ -67,6 +67,6 @@ I think this story is better seen than told. <br>
 [Take me to the Part II Wireframing , User Research Protocol](final_project_partII.md)<br>
 [Take me to the Part III, Final Deliverable](final_project.md)
 
-
+#### The Visual can be found [here](https://carnegiemellon.shorthandstories.com/fastfashion/index.html)
 
 
