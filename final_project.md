@@ -68,7 +68,7 @@ Happy Shopping!
 
 ## GitHub Profile
 
-More about this and all other projects can be found on my [Github page(https://github.com/ShrutiKarandikar/Portfolio/blob/master/README.md)
+More about this and all other projects can be found on my[Github page](https://github.com/ShrutiKarandikar/Portfolio/blob/master/README.md)
 
 
 
