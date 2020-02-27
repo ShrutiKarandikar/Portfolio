@@ -71,3 +71,6 @@ Happy Shopping!
 More about this and all other projects can be found on my Github page- <br>
 https://github.com/ShrutiKarandikar/Portfolio/blob/master/README.md
 
+
+
+[Take me back to the portfolio](https://shrutikarandikar.github.io/Portfolio/)
