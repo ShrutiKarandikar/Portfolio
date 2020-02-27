@@ -12,7 +12,7 @@ But, that dataset was not publically available. Also, after first round of discu
 
 ![20200209_212707](https://user-images.githubusercontent.com/59716372/74122729-2ff73b80-4b9a-11ea-8d3b-4c7ce53946ae.jpg)
 
-Other details, initial sketches can be found [HERE](https://github.com/ShrutiKarandikar/Portfolio/edit/master/final_project_Shruti.md)!<br>
+Other details, initial sketches can be found here [Part - I](final_project_Shruti.md)!<br>
 After intensive research and finalizing on the method and medium of the project, we moved to [Part – II](final_project_partII.md) 
 
 It was time to display your work outside the boundaries of classroom. User research was a crucial part in this section. After creating the initial wireframes, I interviewed 5 of my friends ( Of which only 3 could make it to a mention on my final page :P ) Initially I sent my drafts to most of my classmates and realized the feedback was more or less the same. This made me think that I had to expand my users from CMU to any other background so that I’ll get holistic feedback. Post this realization; I collected feedback from friends back in India along with the US. I tried to maintain a balance of gender amongst interviewees and finally I chose people who like fashion as well as people who did not care much about fashion.
