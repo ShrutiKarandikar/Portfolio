@@ -42,9 +42,7 @@ Happy Shopping!
 
 [FASHION : Style that is sustainable](https://carnegiemellon.shorthandstories.com/fastfashion/index.html)
 
-### References 
-
-### Brief summary about the data
+### References & Brief summary about the data
 * [The Real Cost of Your Shopping Habits](https://www.forbes.com/sites/emmajohnson/2015/01/15/the-real-cost-of-your-shopping-habits/#331f47451452)
   - Source : Forbes.com
   - Used to Facts to eastablish the ground that consumption of apparels has alarmingly increased in last decade
