@@ -79,17 +79,16 @@ I think this story is better seen than told. <br>
 
 #### The Visual can be found [here](https://carnegiemellon.shorthandstories.com/fastfashion/index.html)
 
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 I hope this page has helped you know more about me and my work. 
-Stay tuned for more.<br><br>
-<br><br>
-
+Stay tuned for more.
+<br>
+<br>
+<br>
 #### Shruti Karandikar<br>
 MISM 2020, <br>
 Carnegie Mellon University.<br>
