@@ -44,6 +44,7 @@ But isn't a cake without a cherry incomplete? What if I extract data and I'm not
 Ironically, I don't want to articulate any story for my data, instead I want to learn how to make data tell its own story!
 Following Benjamin Franklin's thought
 > "Well done is better than well said" 
+
 I want to learn how to visualize and draw data in a creative and lucid form for the reader to understand it in a glance.
 
 
@@ -83,7 +84,8 @@ I hope this page has helped you know more about me and my work.
 Stay tuned for more.
 
 
+
 #### Shruti Karandikar<br>
-#### MISM 2020, <br>
-#### Carnegie Mellon University.<br>
+MISM 2020, <br>
+Carnegie Mellon University.<br>
 
