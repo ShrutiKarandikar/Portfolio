@@ -2,7 +2,9 @@
 Academic Details , Interests and Fun Facts!
 
 # About me
+![3](https://user-images.githubusercontent.com/59716372/75617493-f2008e00-5b2d-11ea-9737-b23b0b6bb83c.jpg)
 My name is Shruti Karandikar, pronounced as she/her/hers
+
 
 I am a Graduate Student at Carnegie Mellon University in Master of Information Systems Management’20 program. Prior to CMU, I was a Business Analyst at Credit Suisse. I was particularly responsible for business requirement gathering and providing an IT implementation plan. This exposure to millions of trade transactions across the world rooted my interest into data science & analytics.
  
