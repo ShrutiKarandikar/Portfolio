@@ -5,14 +5,14 @@ Academic Details , Interests and Fun Facts!
 ![3](https://user-images.githubusercontent.com/59716372/75617493-f2008e00-5b2d-11ea-9737-b23b0b6bb83c.jpg)
 My name is Shruti Karandikar, pronounced as she/her/hers
 
-I am a Graduate Student at Carnegie Mellon University in Master of Information Systems Management’20 program. Prior to CMU, I was a Business Analyst at Credit Suisse for a couple of years. This exposure to millions of trade transactions across the world rooted my interest into data science & analytics. 
+I am a Graduate Student at Carnegie Mellon University in Master of Information Systems Management’20 program. Prior to CMU, I was a Business Analyst at Credit Suisse for a couple of years. I worked primariyly on regulatory reporting of capital numbers. This exposure to millions of trade transactions across the world rooted my interest into data science & analytics. 
 
-Being a career starter in a corporate firm, I had realized how important yet difficult it is for women to be a leader in business or technology. Since then, I had understood that for true career advancement, now is the time when I can prepare myself for the upcoming challenges. I believed nothing else but a formal master’s education from Carnegie Mellon University could polish my perspective and knowledge to tackle the theoretical as well as real-world problems. With Information Systems Management program at Heinz College, I  want to help convert ‘data’ into ‘information’ with a business purview. 
+Being a career starter in a corporate firm, I realized how important yet difficult it is for women to be a leader in business or technology. Hence, for true career advancement, I decided to prepare myself for the upcoming challenges. I believed nothing else but a formal master’s degree from Carnegie Mellon University could polish my perspective and knowledge to tackle theoretical as well as real-world problems and make me #IndustryReady.
 
 Inspired by Sheryl Sandberg's thought -  
 > If you're offered a seat on a rocket ship, don’t ask what seat
 
-I'm ready to start one of the most exciting journeys in life :)
+I'm ready to start one of the most exciting journeys of my life :)
  
 # Me doing adventures - 
 
@@ -35,17 +35,21 @@ I'm ready to start one of the most exciting journeys in life :)
 
 # Life@CMU
 
-Being at CMU, #1 college for Analytics, I continuously challenge myself in the technology domain to complement my functional knowledge. Courses like Java, Python and Machine Learning to help me extract insights from data and provide performance recommendations.
+Being at CMU, #1 college for Analytics, I continuously challenge myself in the technology domain to complement my functional knowledge. Courses like Java, Python and Machine Learning to help me extract insights from data and provide performance recommendations. I strive to convert 'data' into 'information'.
 
-This is my last semester at CMU, and I want it to be a cherry on a cake :) 
+But isn't cake without a cherry incomplete? What if I extract data and I'm not able to convey my results to a wide audience? 
+
+This is my last semester at CMU, and I want it to be cherry on a cake :) 
 Hence, I have chosen the subject - 'Telling Stories with Data'
 
 ## What I hope to learn from "Telling stories with Data" 
 Ironically, I don't want to articulate any story for my data, instead I want to learn how to make data tell its own story!
-Following Benjamin Franklin's thought, "Well done is better than well said" , I want to learn how to visualize and draw data in a creative and lucid form for the reader to understand it in a glance.
+Following Benjamin Franklin's thought
+> "Well done is better than well said" 
+I want to learn how to visualize and draw data in a creative and lucid form for the reader to understand it in a glance.
 
 
-## Interesting projects 
+## Interesting TSWD projects-
 
 ### Project 1 : Data Visualization
 Data Visualizations representing  General Government Debts across Globe for year 2015.<br>
@@ -77,5 +81,11 @@ I think this story is better seen than told. <br>
 #### The Visual can be found [here](https://carnegiemellon.shorthandstories.com/fastfashion/index.html)
 
 
+I hope this page has helped you know more about me and my work. 
+Stay tuned for more.
 
+
+Shruti Karandikar
+MISM 2020, 
+Carnegie Mellon University.
 
