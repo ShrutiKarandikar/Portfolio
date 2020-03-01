@@ -87,8 +87,6 @@ I think this story is better seen than told. <br>
 I hope this page has helped you know more about me and my work. 
 Stay tuned for more.
 <br>
-<br>
-<br>
 #### Shruti Karandikar<br>
 MISM 2020, <br>
 Carnegie Mellon University.<br>
