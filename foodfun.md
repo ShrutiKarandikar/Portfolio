@@ -32,7 +32,7 @@ ____
 Recently I thought, since I am already #QuarantineChef and #QuarantinePhotographer, why not tick one last thing on the list and become #QuarantineBlogger :P
 
 
-But oops, I am a mediocre writer and a poor reader :D So let me give it a pass to write a blog post. But then.. what am I good at? I am good at making quick notes and creative to make decent sketches…. 
+But oops, I am a mediocre writer and a poor reader :D So let me give it a pass to write a blog post. But then.. what am I good at? I am good at making quick notes....ummm
 
 
 ### So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
