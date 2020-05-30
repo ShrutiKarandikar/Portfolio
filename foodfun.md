@@ -11,6 +11,8 @@ Hi, I am Shruti, graduate student at Carnegie Mellon University, always rooted i
 
 ___________
 Everything was going well, until we found ourselves in the unusual circumstances – Lockdown 2020.
+
+
 **March 25, Gudi Padwa 2020**
 
 
@@ -27,4 +29,4 @@ Recently I thought, since I am already #QuarantineChef and #QuarantinePhotograph
 But oops, I am a mediocre writer and a poor reader :D So let me give it a pass to write a blog post. But then.. what am I good at? I am good at making quick notes and creative to make decent sketches…. 
 
 
-So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
+## So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
