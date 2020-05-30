@@ -21,9 +21,11 @@ Since we are home 24x7 and have almost exhausted our staple food from the refrig
 
 ![20200325_155507](https://user-images.githubusercontent.com/59716372/83337907-39adc780-a28d-11ea-8169-d256745f787f.jpg)
 
-Looks pretty right? It was tasty as well !
-#### Since this lunch, I have been cooking regularly!
-#### The Gudi Padwa magic has truely kicked in!
+Looks pretty right? It was tasty as well ! Since this lunch, I have been cooking regularly!
+
+
+
+**The Gudi Padwa magic has truely kicked in!**
 
 ____
 
