@@ -22,9 +22,7 @@ Since we are home 24x7 and have almost exhausted our staple food from the refrig
 Anyway, coming back to lunch, I must say, it was one of the best lunches I have had in the US and one of the best ways to celebrate New Year in a lockdown. <br>   
 And you know what ? The Gudi Padwa magic kicked in! Since this lunch, I have been cooking regularly!
 
-![20200325_155736](https://user-images.githubusercontent.com/59716372/83337872-e89dd380-a28c-11ea-9fd1-5d6e44378698.jpg)
-![20200325_155507](https://user-images.githubusercontent.com/59716372/83337873-e9366a00-a28c-11ea-903e-9415802d7446.jpg)
-
+![20200325_155507](https://user-images.githubusercontent.com/59716372/83337907-39adc780-a28d-11ea-8169-d256745f787f.jpg)
 ____
 Recently I thought, since I am already #QuarantineChef and #QuarantinePhotographer, why not tick one last thing on the list and become #QuarantineBlogger :P
 
