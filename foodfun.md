@@ -4,7 +4,7 @@
 My mom always told me to do something productive, something good on the day of Gudi Padwa (Maharashtrian New Year). It’s probably because everyone says “Whatever you do on Gudi Padwa, you do it throughout the year”. So it better be good! <br>
 All years until now, I have carefully watched TV and binged shows with all dedication but nothing seems to have worked!!! 
 
-Except, this year, it seems to have worked like a charm! <br>
+Except, this year, it seems to have worked like a charm!
 ___________
 
 Hi, I am Shruti, graduate student at Carnegie Mellon University, always rooted in assignments and juggling between classes; having no particular interest in cooking; happily surviving on frozen food and rice. <br> 
