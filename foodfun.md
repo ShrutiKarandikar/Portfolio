@@ -11,7 +11,7 @@ Hi, I am Shruti, graduate student at Carnegie Mellon University, always rooted i
 
 ___________
 Everything was going well, until we found ourselves in the unusual circumstances – Lockdown 2020.
-**March 25, Gudi Padwa 2020
+**March 25, Gudi Padwa 2020**
 
 
 Since we are home 24x7 and have almost exhausted our staple food from the refrigerator, I and my roommate thought to cook some traditional Indian lunch. Something which we could make quickly and with the basic ingredients we had. So we went ahead with the safest menu – Pongal & Kheer. I know, it’s not the most obvious menu, but she is from Telangana and I am from Maharashtra, so we were not only celebrating Gudi Padwa, but also Ugaadi 2020. [Diversity you see…. :P]
