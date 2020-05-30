@@ -79,6 +79,15 @@ I think this story is better seen than told. <br>
 
 #### The Visual can be found [here](https://carnegiemellon.shorthandstories.com/fastfashion/index.html)
 
+### Just Quarantine Things
+
+In March 2020, we all experienced really unusual and extraordinary – Lockdown 2020. <br>
+It felt to be disruptive in the beginning, but soon became the new normal. We all have our share of ‘how I spent my quarantine’ stories and I am no exception! 
+
+Here’s mine – A photowalk through my days in the newly found kitchen!
+[Take me for the walk](foodfun.md)<br>
+
+
 <br>
 <br>
 <br>
