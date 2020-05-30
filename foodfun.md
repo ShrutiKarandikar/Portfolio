@@ -19,12 +19,13 @@ Everything was routine, until we found ourselves in the unusual circumstances �
 
 Since we are home 24x7 and have almost exhausted our staple food from the refrigerator, I and my roommate thought to cook some traditional Indian lunch. Something which we could make quickly and with the basic ingredients we had. So we went ahead with the safest menu – Pongal & Kheer. I know, it’s not the most obvious menu, but she is from Telangana and I am from Maharashtra, so we were not only celebrating Gudi Padwa, but also Ugaadi 2020. [Diversity you see…. :P]
 
-
-Anyway, coming back to lunch, I must say, it was one of the best lunches I have had in the US and one of the best ways to celebrate New Year in a lockdown. <br>   
-And you know what ? The Gudi Padwa magic kicked in! Since this lunch, I have been cooking regularly!
-
 ![20200325_155507](https://user-images.githubusercontent.com/59716372/83337907-39adc780-a28d-11ea-8169-d256745f787f.jpg)
+
+The Gudi Padwa magic has kicked in! 
+
+Since this lunch, I have been cooking regularly!
 ____
+
 Recently I thought, since I am already #QuarantineChef and #QuarantinePhotographer, why not tick one last thing on the list and become #QuarantineBlogger :P
 
 
