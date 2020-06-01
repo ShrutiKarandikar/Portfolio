@@ -36,3 +36,8 @@ But oops, I am a mediocre writer and a poor reader :D So let me give it a pass t
 
 
 ### So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
+
+![week1](https://user-images.githubusercontent.com/59716372/83375655-87b1f080-a39d-11ea-83f7-e162bdb188bb.PNG)
+![week2](https://user-images.githubusercontent.com/59716372/83375656-88e31d80-a39d-11ea-8373-bc81d604ad9d.PNG)
+![week3](https://user-images.githubusercontent.com/59716372/83375657-897bb400-a39d-11ea-8617-1397c7aacd90.PNG)
+
