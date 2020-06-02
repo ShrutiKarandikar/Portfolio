@@ -41,7 +41,6 @@ But oops, I am a mediocre writer and a poor reader :D So let me give it a pass t
 
 
 ![Pink and White Delicate Brush Strokes Instagram Story](https://user-images.githubusercontent.com/59716372/83564428-b38ebc80-a4ea-11ea-906a-78835e99edb1.png)
-________________________________
 ![Light Blue Delicate Floral Collage Couples Valentine's Day Instagram Story](https://user-images.githubusercontent.com/59716372/83564623-01a3c000-a4eb-11ea-9c32-b2c9dd5c7fc8.png)
 
 
