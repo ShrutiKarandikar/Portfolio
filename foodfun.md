@@ -4,10 +4,8 @@
 My mom always told me to do something productive, something good on the day of Gudi Padwa (Maharashtrian New Year). It’s probably because everyone says “Whatever you do on Gudi Padwa, you do it throughout the year”. So it better be good! <br>
 All years until now, I have carefully watched TV and binged shows with all dedication but nothing seems to have worked!!! 
 
-Except, this year, it seems to have worked like a charm!
-
+Except, this year, it seems to have worked like a charm!<br>
 ___________
-
 Hi, I am Shruti, graduate student at Carnegie Mellon University, always rooted in assignments and juggling between classes; having no particular interest in cooking; happily surviving on frozen food and rice. <br> 
 
 ___________
@@ -39,13 +37,12 @@ But oops, I am a mediocre writer and a poor reader :D So let me give it a pass t
 ### So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
 
 
+
+______________
 **Week One : March 30,2020**
 
 Lectures are going on in full swing, have very less motivation to study and assignments are just piling up! Hence I wanted to make something which is not too complicated or time consuming. So this week was full of one dish meals, avoiding any sleep inducing agents like rice :)
 ![Pasta](https://user-images.githubusercontent.com/59716372/83592722-f2dbfe00-a528-11ea-8b4e-bf9ef724faec.png)
-![Pasta2](https://user-images.githubusercontent.com/59716372/83593760-87476000-a52b-11ea-9793-3c6cf437541e.png)
-
-
 ![Palak Paratha](https://user-images.githubusercontent.com/59716372/83574422-741c9c00-a4fb-11ea-9630-ddee428e7b02.png)
 # Place for burrito
 
