@@ -35,13 +35,20 @@ But oops, I am a mediocre writer and a poor reader :D So let me give it a pass t
 
 ### So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
 
-______________
-**Week Two: April 6,2020
+
 ![Palak Paratha](https://user-images.githubusercontent.com/59716372/83574422-741c9c00-a4fb-11ea-9630-ddee428e7b02.png)
 
+______________
+**Week Two
+
+
+Pittsburgh is notoriously famous for its ever changing weather. But this time, it was bang on time. Spring season is on and today was the first day it rained! Being from Mumbai, can’t resist the urge of having crispy fried Bhajji….. and there we go…. 
+
+
+![Bhajji](https://user-images.githubusercontent.com/59716372/83598158-055d3400-a537-11ea-8e04-81718aa55950.png)
 
 ______________
-**Week One : March 30,2020**
+**Week One
 
 Lectures are going on in full swing, have very less motivation to study and assignments are just piling up! Hence I wanted to make something which is not too complicated or time consuming. So this week was full of one dish meals, avoiding any sleep inducing agents like rice :)
 ![Pasta](https://user-images.githubusercontent.com/59716372/83592722-f2dbfe00-a528-11ea-8b4e-bf9ef724faec.png)
@@ -51,11 +58,8 @@ Recipe for this pasta can be found [here](https://cookingwidjoy.wordpress.com/20
 ![Taco](https://user-images.githubusercontent.com/59716372/83595227-5ec16500-a52f-11ea-80d6-0fd02d5d30f0.png)
 To make this, I literally stuffed whatever I had into a taco shell - Mashed potatoes, capsicum, baked beans, salsa, 100 types of Indian Chutneys and of course, covered it in cheese. Nah Nah, no more thinking of diet :P
 
-![abc](https://user-images.githubusercontent.com/59716372/83564623-01a3c000-a4eb-11ea-9c32-b2c9dd5c7fc8.png)
-![White Travel Instagram Story](https://user-images.githubusercontent.com/59716372/83566555-3402ec80-a4ee-11ea-9a8f-694209a8c3fb.png)
-
-![Palak Paratha](https://user-images.githubusercontent.com/59716372/83574422-741c9c00-a4fb-11ea-9630-ddee428e7b02.png)
-![Spicy Tacos](https://user-images.githubusercontent.com/59716372/83574420-741c9c00-a4fb-11ea-9780-58f9948b6589.png)
+![AlooPalak Ramen](https://user-images.githubusercontent.com/59716372/83564623-01a3c000-a4eb-11ea-9c32-b2c9dd5c7fc8.png)
+![Buritto](https://user-images.githubusercontent.com/59716372/83566555-3402ec80-a4ee-11ea-9a8f-694209a8c3fb.png)
 
 ![week2](https://user-images.githubusercontent.com/59716372/83375656-88e31d80-a39d-11ea-8373-bc81d604ad9d.PNG)
 ![week3](https://user-images.githubusercontent.com/59716372/83375657-897bb400-a39d-11ea-8617-1397c7aacd90.PNG)
