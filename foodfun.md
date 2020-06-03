@@ -36,8 +36,8 @@ But oops, I am a mediocre writer and a poor reader :D So let me give it a pass t
 
 
 ### So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
+![Pasta](https://user-images.githubusercontent.com/59716372/83592722-f2dbfe00-a528-11ea-8b4e-bf9ef724faec.png)
 
-![Pink and White Delicate Brush Strokes Instagram Story](https://user-images.githubusercontent.com/59716372/83564428-b38ebc80-a4ea-11ea-906a-78835e99edb1.png)
 ![Light Blue Delicate Floral Collage Couples Valentine's Day Instagram Story](https://user-images.githubusercontent.com/59716372/83564623-01a3c000-a4eb-11ea-9c32-b2c9dd5c7fc8.png)
 ![White Travel Instagram Story](https://user-images.githubusercontent.com/59716372/83566555-3402ec80-a4ee-11ea-9a8f-694209a8c3fb.png)
 
