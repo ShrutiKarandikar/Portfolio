@@ -35,6 +35,27 @@ But oops, I am a mediocre writer and a poor reader :D So let me give it a pass t
 
 ### So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
 
+______________
+
+
+**Week Five**
+
+
+Summer is here!!! Yes…and as expected the temperature now reaches 30 degree Celsius. It’s the best time to have a porch side grill, isn’t it? We recently got a new garden couch which has elaborately positioned itself on the front porch.
+
+
+Here’s to the summer and the new couch!
+![Buritto](https://user-images.githubusercontent.com/59716372/83566555-3402ec80-a4ee-11ea-9a8f-694209a8c3fb.png)
+______________
+
+
+**Week Four**
+______________
+
+
+**Week Three**
+
+
 
 ![Palak Paratha](https://user-images.githubusercontent.com/59716372/83574422-741c9c00-a4fb-11ea-9630-ddee428e7b02.png)
 
@@ -54,7 +75,10 @@ ______________
 
 **Week One**
 
+
 Lectures are going on in full swing, have very less motivation to study and assignments are just piling up! Hence I wanted to make something which is not too complicated or time consuming. So this week was full of one dish meals, avoiding any sleep inducing agents like rice :)
+
+
 ![Pasta](https://user-images.githubusercontent.com/59716372/83592722-f2dbfe00-a528-11ea-8b4e-bf9ef724faec.png)
 
 Interesting thing for this was that it is made in wheat flour instead of maida(All purpose flour)! 
@@ -66,7 +90,7 @@ To make this, I literally stuffed whatever I had into a taco shell - Mashed pota
 ![Taco](https://user-images.githubusercontent.com/59716372/83595227-5ec16500-a52f-11ea-80d6-0fd02d5d30f0.png)
 
 ![AlooPalak Ramen](https://user-images.githubusercontent.com/59716372/83564623-01a3c000-a4eb-11ea-9c32-b2c9dd5c7fc8.png)
-![Buritto](https://user-images.githubusercontent.com/59716372/83566555-3402ec80-a4ee-11ea-9a8f-694209a8c3fb.png)
+
 
 ![week2](https://user-images.githubusercontent.com/59716372/83375656-88e31d80-a39d-11ea-8373-bc81d604ad9d.PNG)
 ![week3](https://user-images.githubusercontent.com/59716372/83375657-897bb400-a39d-11ea-8617-1397c7aacd90.PNG)
