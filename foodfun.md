@@ -41,6 +41,23 @@ ______________
 **Week Five**
 
 
+Cheers to Graduation! With Graduation, comes vacation. And with a quarantine-vacation comes cooking++ 
+
+
+Now I have all the time in this world to carefully make the recipe, plate it and click photos from every possible angle. With courtesy of Netflix, where I’ve binged plenty of cooking shows, my presentation skills have enhanced with a rather unusual pace :P
+
+
+Below is a look at the artistic Aloo Palak followed by a lovely noodle soup, Ramen.
+
+
+![AlooPalak Ramen](https://user-images.githubusercontent.com/59716372/83564623-01a3c000-a4eb-11ea-9c32-b2c9dd5c7fc8.png)
+
+______________
+
+
+**Week Four**
+
+
 Summer is here!!! Yes…and as expected the temperature now reaches 30 degree Celsius. It’s the best time to have a porch side grill, isn’t it? We recently got a new garden couch which has elaborately positioned itself on the front porch.
 
 
@@ -49,15 +66,12 @@ Here’s to the summer and the new couch!
 ______________
 
 
-**Week Four**
-______________
-
-
 **Week Three**
 
 
 
 ![Palak Paratha](https://user-images.githubusercontent.com/59716372/83574422-741c9c00-a4fb-11ea-9630-ddee428e7b02.png)
+
 
 ______________
 
@@ -88,10 +102,3 @@ Recipe for this pasta can be found [here](https://cookingwidjoy.wordpress.com/20
 To make this, I literally stuffed whatever I had into a taco shell - Mashed potatoes, capsicum, baked beans, salsa, 100 types of Indian Chutneys and of course, covered it in cheese. Nah Nah, no more thinking of diet :P
 
 ![Taco](https://user-images.githubusercontent.com/59716372/83595227-5ec16500-a52f-11ea-80d6-0fd02d5d30f0.png)
-
-![AlooPalak Ramen](https://user-images.githubusercontent.com/59716372/83564623-01a3c000-a4eb-11ea-9c32-b2c9dd5c7fc8.png)
-
-
-![week2](https://user-images.githubusercontent.com/59716372/83375656-88e31d80-a39d-11ea-8373-bc81d604ad9d.PNG)
-![week3](https://user-images.githubusercontent.com/59716372/83375657-897bb400-a39d-11ea-8617-1397c7aacd90.PNG)
-
