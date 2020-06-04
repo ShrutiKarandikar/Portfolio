@@ -81,7 +81,8 @@ Summer is here!!! Yes…and as expected the temperature now reaches 30 degree Ce
 
 
 Here’s to the summer and the new couch!
-![Buritto](https://user-images.githubusercontent.com/59716372/83566555-3402ec80-a4ee-11ea-9a8f-694209a8c3fb.png)
+![burrito](https://user-images.githubusercontent.com/59716372/83722731-88e85500-a60b-11ea-85e9-b5f62a5d1b8e.png)
+
 ______________
 
 
