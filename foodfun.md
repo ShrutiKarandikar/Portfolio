@@ -5,6 +5,7 @@ My mom always told me to do something productive, something good on the day of G
 All years until now, I have carefully watched TV and binged shows with all dedication but nothing seems to have worked!!! 
 
 Except, this year, it seems to have worked like a charm!<br>
+
 ___________
 Hi, I am Shruti, graduate student at Carnegie Mellon University, always rooted in assignments and juggling between classes; having no particular interest in cooking; happily surviving on frozen food and rice. <br> 
 
@@ -34,6 +35,24 @@ But oops, I am a mediocre writer and a poor reader :D So let me give it a pass t
 
 
 ### So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
+
+
+______________
+
+
+**Week Six**
+
+Summer Break + Binge watching + Home Quarantine = No chance for separate breakfast and lunch. 
+
+
+I wake up too early for a lunch and too late for routine breakfast-lunch-dinner! What we have is Brunch-Slunch-Sinner cycle. (Thank you Soumya for the new words for Lunch+Snacks, Snacks+Dinner)  
+
+
+No kidding, brunch is no more a choice, it’s the new normal. So well, there’s a pasta - chilli cheese toast brunch or crepe - mashed potatoes - dark roast coffee combination for your morning cravings!
+
+
+![brunch](https://user-images.githubusercontent.com/59716372/83717084-ba5b2380-a5ff-11ea-87df-1fc0ba746883.png)
+
 
 ______________
 
