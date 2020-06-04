@@ -68,9 +68,9 @@ ______________
 
 **Week Three**
 
+Argghhhh…..all I do entire day is eat and laze off! Goal for the week: Reduce Rice. 
+Here are some really handy meals which I tried having no need for rice. Shout out to [this blog](https://holycowvegan.net/methi-matar-malai/) for the Methi Matar Recipe. And for a change, I literally had all the ingredients at hand!
 
-
-![Palak Paratha](https://user-images.githubusercontent.com/59716372/83574422-741c9c00-a4fb-11ea-9630-ddee428e7b02.png)
 ![PalakParatha](https://user-images.githubusercontent.com/59716372/83713368-e2458980-a5f5-11ea-8458-62e51f7f440b.png)
 ![MethiMatarMalai](https://user-images.githubusercontent.com/59716372/83713371-e4a7e380-a5f5-11ea-9127-336e15c55888.png)
 
