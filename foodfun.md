@@ -48,7 +48,7 @@ Summer Break + Binge watching + Home Quarantine = No chance for separate breakfa
 I wake up too early for a lunch and too late for routine breakfast-lunch-dinner! What we have is Brunch-Slunch-Sinner cycle. (Thank you Soumya for the new words for Lunch+Snacks, Snacks+Dinner)  
 
 
-No kidding, brunch is no more a choice, it’s the new normal. So well, there’s a pasta - chilli cheese toast brunch or crepe - mashed potatoes - dark roast coffee combination for your morning cravings!
+No kidding, brunch is no more a choice, it’s the new normal. So well, there it is:  A pasta - chilli cheese toast brunch and a crepe - mashed potatoes - dark roast coffee combination for the morning cravings!
 
 
 ![brunch](https://user-images.githubusercontent.com/59716372/83717084-ba5b2380-a5ff-11ea-87df-1fc0ba746883.png)
