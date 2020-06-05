@@ -94,7 +94,6 @@ Here are some really handy meals which I tried having no need for rice. Shout ou
 ![PalakParatha](https://user-images.githubusercontent.com/59716372/83713368-e2458980-a5f5-11ea-8458-62e51f7f440b.png)
 ![MethiMatarMalai](https://user-images.githubusercontent.com/59716372/83713371-e4a7e380-a5f5-11ea-9127-336e15c55888.png)
 
-![Untitled design](https://user-images.githubusercontent.com/59716372/83920205-1e89fe80-a74a-11ea-9366-cab944821fa0.png)
 
 ______________
 
