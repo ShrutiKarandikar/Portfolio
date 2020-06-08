@@ -42,6 +42,15 @@ ______________
 
 **Week Seven**
 
+
+Dessert Week! 
+Inspired by my own work; taking the next step this week - moving from cooking to baking. (Or probably we just had too many apples and were bored of eating them as it is :D)
+
+
+Had made a couple of wonderfully easy apple desserts followed by a coffee classic to end the summery Friday with a chill.
+
+Followed [this blog](https://carlsbadcravings.com/caramel-apple-pie/) with exact steps for the caramel apple pie. Coffee Frappe was actually child of a don’t-waste-food attempt. We are used to brewing extra coffee and then forgetting about it. So this time, instead of throwing it off, we froze it and made little coffee cubes. You can find this and many other leftover coffee options [here!](https://thelemonbowl.com/20-recipes-for-leftover-coffee/)
+
 ![Frappe](https://user-images.githubusercontent.com/59716372/83997776-22c24180-a92d-11ea-8fe1-84e7043679b4.png)
 ![AppleThing](https://user-images.githubusercontent.com/59716372/83997964-96644e80-a92d-11ea-9ca2-49f221b4ac38.png)
 
