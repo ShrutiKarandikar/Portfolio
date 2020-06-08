@@ -40,6 +40,17 @@ But oops, I am a mediocre writer and a poor reader :D So let me give it a pass t
 ______________
 
 
+**Week Seven**
+
+![Frappe](https://user-images.githubusercontent.com/59716372/83997776-22c24180-a92d-11ea-8fe1-84e7043679b4.png)
+![AppleThing](https://user-images.githubusercontent.com/59716372/83997771-20f87e00-a92d-11ea-85da-70e4d8d6bb52.png)
+
+
+
+
+______________
+
+
 **Week Six**
 
 Summer Break + Binge watching + Home Quarantine = No chance for separate breakfast and lunch. 
