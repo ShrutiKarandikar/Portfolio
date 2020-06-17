@@ -89,7 +89,7 @@ ______________
 Summer is here!!! Yes…and as expected the temperature now reaches 30 degree Celsius. It’s the best time to have a porch side grill, isn’t it? We recently got a new garden couch which has elaborately positioned itself on the front porch.
 
 
-Here’s to the summer and the new couch!
+Here’s to summer and the new couch!
 ![burrito](https://user-images.githubusercontent.com/59716372/83722731-88e85500-a60b-11ea-85e9-b5f62a5d1b8e.png)
 
 
