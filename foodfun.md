@@ -37,23 +37,78 @@ But oops, I am a mediocre writer and a poor reader :D So let me give it a pass t
 ### So here’s my Quaratine Cooking diary – A look at what magic Gudi Padwa cooking can do!
 
 
+
 ______________
 
 
-**Week Seven**
+**Week One**
 
 
-Dessert Week! 
-Inspired by my own work; taking the next step this week - moving from cooking to baking. (Or probably we just had too many apples and were bored of eating them as it is :D)
+Lectures are going on in full swing, have very less motivation to study and assignments are just piling up! Hence I wanted to make something which is not too complicated or time consuming. So this week was full of one dish meals, avoiding any sleep inducing agents like rice :)
 
 
-Had made a couple of wonderfully easy apple desserts followed by a coffee classic to end the summery Friday with a chill.
+![Pasta](https://user-images.githubusercontent.com/59716372/83592722-f2dbfe00-a528-11ea-8b4e-bf9ef724faec.png)
 
-Followed [this blog](https://carlsbadcravings.com/caramel-apple-pie/) with exact steps for the caramel apple pie. Coffee Frappe was actually child of a don’t-waste-food attempt. We are used to brewing extra coffee and then forgetting about it. So this time, instead of throwing it off, we froze it and made little coffee cubes. You can find this and many other leftover coffee options [here!](https://thelemonbowl.com/20-recipes-for-leftover-coffee/)
+Interesting thing for this was that it is made in wheat flour instead of maida(All purpose flour)! 
 
-![Frappe](https://user-images.githubusercontent.com/59716372/83997776-22c24180-a92d-11ea-8fe1-84e7043679b4.png)
-![AppleThing](https://user-images.githubusercontent.com/59716372/83997964-96644e80-a92d-11ea-9ca2-49f221b4ac38.png)
+Recipe for this pasta can be found [here](https://cookingwidjoy.wordpress.com/2014/11/07/pasta-in-white-sauce-using-whole-wheat-flour/)!
 
+To make this, I literally stuffed whatever I had into a taco shell - Mashed potatoes, capsicum, baked beans, salsa, 100 types of Indian Chutneys and of course, covered it in cheese. Nah Nah, no more thinking of diet :P
+
+![Taco](https://user-images.githubusercontent.com/59716372/83595227-5ec16500-a52f-11ea-80d6-0fd02d5d30f0.png)
+
+
+______________
+
+
+**Week Two**
+
+
+Pittsburgh is notoriously famous for its ever changing weather. But this time, it was bang on time. Spring season is on and today was the first day it rained! Being from Mumbai, can’t resist the urge of having crispy fried Bhajji….. and there we go…. 
+
+
+![Bhajji](https://user-images.githubusercontent.com/59716372/83598158-055d3400-a537-11ea-8e04-81718aa55950.png)
+
+______________
+
+
+**Week Three**
+
+Argghhhh…..all I do entire day is eat and laze off! Goal for the week: Reduce Rice. 
+Here are some really handy meals which I tried having no need for rice. Shout out to [this blog](https://holycowvegan.net/methi-matar-malai/) for the Methi Matar Recipe. And for a change, I literally had all the ingredients at hand!
+
+![PalakParatha](https://user-images.githubusercontent.com/59716372/83713368-e2458980-a5f5-11ea-8458-62e51f7f440b.png)
+![MethiMatarMalai](https://user-images.githubusercontent.com/59716372/83713371-e4a7e380-a5f5-11ea-9127-336e15c55888.png)
+
+______________
+
+
+**Week Four**
+
+
+Summer is here!!! Yes…and as expected the temperature now reaches 30 degree Celsius. It’s the best time to have a porch side grill, isn’t it? We recently got a new garden couch which has elaborately positioned itself on the front porch.
+
+
+Here’s to the summer and the new couch!
+![burrito](https://user-images.githubusercontent.com/59716372/83722731-88e85500-a60b-11ea-85e9-b5f62a5d1b8e.png)
+
+
+______________
+
+
+**Week Five**
+
+
+Cheers to Graduation! With Graduation, comes vacation. And with a quarantine-vacation comes cooking++ 
+
+
+Now I have all the time in this world to carefully make the recipe, plate it and click photos from every possible angle. With courtesy of Netflix, where I’ve binged plenty of cooking shows, my presentation skills have enhanced with a rather unusual pace :P
+
+
+Below is a look at the artistic Aloo Palak followed by a lovely noodle soup, Ramen.
+
+
+![AlooPalak Ramen](https://user-images.githubusercontent.com/59716372/83564623-01a3c000-a4eb-11ea-9c32-b2c9dd5c7fc8.png)
 
 
 ______________
@@ -76,70 +131,16 @@ No kidding, brunch is no more a choice, it’s the new normal. So well, there it
 ______________
 
 
-**Week Five**
+**Week Seven**
 
 
-Cheers to Graduation! With Graduation, comes vacation. And with a quarantine-vacation comes cooking++ 
+Dessert Week! 
+Inspired by my own work; taking the next step this week - moving from cooking to baking. (Or probably we just had too many apples and were bored of eating them as it is :D)
 
 
-Now I have all the time in this world to carefully make the recipe, plate it and click photos from every possible angle. With courtesy of Netflix, where I’ve binged plenty of cooking shows, my presentation skills have enhanced with a rather unusual pace :P
+Had made a couple of wonderfully easy apple desserts followed by a coffee classic to end the summery Friday with a chill.
 
+Followed [this blog](https://carlsbadcravings.com/caramel-apple-pie/) with exact steps for the caramel apple pie. Coffee Frappe was actually child of a don’t-waste-food attempt. We are used to brewing extra coffee and then forgetting about it. So this time, instead of throwing it off, we froze it and made little coffee cubes. You can find this and many other leftover coffee options [here!](https://thelemonbowl.com/20-recipes-for-leftover-coffee/)
 
-Below is a look at the artistic Aloo Palak followed by a lovely noodle soup, Ramen.
-
-
-![AlooPalak Ramen](https://user-images.githubusercontent.com/59716372/83564623-01a3c000-a4eb-11ea-9c32-b2c9dd5c7fc8.png)
-
-______________
-
-
-**Week Four**
-
-
-Summer is here!!! Yes…and as expected the temperature now reaches 30 degree Celsius. It’s the best time to have a porch side grill, isn’t it? We recently got a new garden couch which has elaborately positioned itself on the front porch.
-
-
-Here’s to the summer and the new couch!
-![burrito](https://user-images.githubusercontent.com/59716372/83722731-88e85500-a60b-11ea-85e9-b5f62a5d1b8e.png)
-
-______________
-
-
-**Week Three**
-
-Argghhhh…..all I do entire day is eat and laze off! Goal for the week: Reduce Rice. 
-Here are some really handy meals which I tried having no need for rice. Shout out to [this blog](https://holycowvegan.net/methi-matar-malai/) for the Methi Matar Recipe. And for a change, I literally had all the ingredients at hand!
-
-![PalakParatha](https://user-images.githubusercontent.com/59716372/83713368-e2458980-a5f5-11ea-8458-62e51f7f440b.png)
-![MethiMatarMalai](https://user-images.githubusercontent.com/59716372/83713371-e4a7e380-a5f5-11ea-9127-336e15c55888.png)
-
-
-______________
-
-
-**Week Two**
-
-
-Pittsburgh is notoriously famous for its ever changing weather. But this time, it was bang on time. Spring season is on and today was the first day it rained! Being from Mumbai, can’t resist the urge of having crispy fried Bhajji….. and there we go…. 
-
-
-![Bhajji](https://user-images.githubusercontent.com/59716372/83598158-055d3400-a537-11ea-8e04-81718aa55950.png)
-
-______________
-
-
-**Week One**
-
-
-Lectures are going on in full swing, have very less motivation to study and assignments are just piling up! Hence I wanted to make something which is not too complicated or time consuming. So this week was full of one dish meals, avoiding any sleep inducing agents like rice :)
-
-
-![Pasta](https://user-images.githubusercontent.com/59716372/83592722-f2dbfe00-a528-11ea-8b4e-bf9ef724faec.png)
-
-Interesting thing for this was that it is made in wheat flour instead of maida(All purpose flour)! 
-
-Recipe for this pasta can be found [here](https://cookingwidjoy.wordpress.com/2014/11/07/pasta-in-white-sauce-using-whole-wheat-flour/)!
-
-To make this, I literally stuffed whatever I had into a taco shell - Mashed potatoes, capsicum, baked beans, salsa, 100 types of Indian Chutneys and of course, covered it in cheese. Nah Nah, no more thinking of diet :P
-
-![Taco](https://user-images.githubusercontent.com/59716372/83595227-5ec16500-a52f-11ea-80d6-0fd02d5d30f0.png)
+![Frappe](https://user-images.githubusercontent.com/59716372/83997776-22c24180-a92d-11ea-8fe1-84e7043679b4.png)
+![AppleThing](https://user-images.githubusercontent.com/59716372/83997964-96644e80-a92d-11ea-9ca2-49f221b4ac38.png)
